@@ -2,3 +2,4 @@ Python Learning Plan
 1. Learn how to plot with matplotlib
 2. Learn all the ways to change directories
 3. Work on anlayzing fit files
+4. Learn more shortcuts 
